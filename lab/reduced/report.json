@@ -112,9 +112,9 @@
         },
         {
           "t": "Cuidado leve, rotina feliz e aquele tipo",
-          "dir": "dark-on-light",
-          "worst": 10.09,
-          "mean": 10.09
+          "dir": "own-fill",
+          "worst": 10.07,
+          "mean": 10.07
         },
         {
           "t": "Conhecer nosso jeito ↓",
@@ -1338,8 +1338,6 @@
       "bg": "rgb(246,199,104)"
     }
   ],
-  "consoleErrors": [
-    "Failed to load resource: the server responded with a status of 404 (Not Found)"
-  ],
+  "consoleErrors": [],
   "failed": []
 }

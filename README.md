@@ -1,6 +1,6 @@
-# Maré & Mimo Petshop
+# GuaraPets Petshop
 
-Scroll-driven petshop website template for a fictional neighborhood petshop in Guarapari, Espírito Santo, Brazil.
+Scroll-driven petshop website template for GuaraPets, a neighborhood petshop in Guarapari, Espírito Santo, Brazil.
 
 ## Run locally
 
