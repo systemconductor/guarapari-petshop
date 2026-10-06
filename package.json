@@ -1,0 +1,10 @@
+{
+  "name": "guarapari-petshop",
+  "private": true,
+  "scripts": {
+    "serve": "node -e \"require('http').createServer((r,s)=>require('fs').createReadStream(r.url==='/'?'index.html':'.'+r.url).on('error',()=>{s.statusCode=404;s.end()}).pipe(s)).listen(4500, '127.0.0.1', ()=>console.log('http://127.0.0.1:4500'))\""
+  },
+  "devDependencies": {
+    "playwright-core": "^1.55.0"
+  }
+}

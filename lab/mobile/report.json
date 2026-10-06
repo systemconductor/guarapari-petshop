@@ -1,0 +1,1335 @@
+{
+  "doc": {
+    "height": 7469,
+    "vh": 844,
+    "acts": [
+      "pin",
+      "flow",
+      "pan",
+      "flow",
+      "pin"
+    ],
+    "world": null
+  },
+  "report": [
+    {
+      "i": 0,
+      "y": 14,
+      "pct": 0,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        0
+      ],
+      "wipes": [
+        "none"
+      ],
+      "act": "pin",
+      "stages": [
+        0,
+        2349,
+        6316
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(245,239,229)"
+    },
+    {
+      "i": 1,
+      "y": 143,
+      "pct": 2,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "petshop de bairro · guarapari, es",
+          "dir": "dark-on-light",
+          "worst": 9.13,
+          "mean": 9.7
+        },
+        {
+          "t": "Mais carinhopor perto.",
+          "dir": "dark-on-light",
+          "worst": 7.12,
+          "mean": 8.69
+        }
+      ],
+      "cues": [
+        {
+          "t": "petshop de bairro · guarapari, es",
+          "o": 0.99
+        },
+        {
+          "t": "Mais carinhopor perto.",
+          "o": 1
+        },
+        {
+          "t": "Cuidado leve, rotina feliz e aquele tipo de at",
+          "o": 0.23
+        }
+      ],
+      "clips": [],
+      "rails": [
+        0
+      ],
+      "wipes": [
+        "none"
+      ],
+      "act": "pin",
+      "stages": [
+        0,
+        2220,
+        6187
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(245,239,229)"
+    },
+    {
+      "i": 2,
+      "y": 273,
+      "pct": 4,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "petshop de bairro · guarapari, es",
+          "dir": "dark-on-light",
+          "worst": 9.12,
+          "mean": 9.69
+        },
+        {
+          "t": "Mais carinhopor perto.",
+          "dir": "dark-on-light",
+          "worst": 7.12,
+          "mean": 8.69
+        },
+        {
+          "t": "Cuidado leve, rotina feliz e aquele tipo",
+          "dir": "own-fill",
+          "worst": 10.07,
+          "mean": 10.07
+        },
+        {
+          "t": "Conhecer nosso jeito ↓",
+          "dir": "own-fill",
+          "worst": 10.07,
+          "mean": 10.07
+        }
+      ],
+      "cues": [
+        {
+          "t": "petshop de bairro · guarapari, es",
+          "o": 1
+        },
+        {
+          "t": "Mais carinhopor perto.",
+          "o": 1
+        },
+        {
+          "t": "Cuidado leve, rotina feliz e aquele tipo de at",
+          "o": 1
+        },
+        {
+          "t": "Conhecer nosso jeito ↓",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        0
+      ],
+      "wipes": [
+        "none"
+      ],
+      "act": "pin",
+      "stages": [
+        0,
+        2090,
+        6057
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(245,239,229)"
+    },
+    {
+      "i": 3,
+      "y": 402,
+      "pct": 6,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "petshop de bairro · guarapari, es",
+          "dir": "dark-on-light",
+          "worst": 9.12,
+          "mean": 9.69
+        },
+        {
+          "t": "Mais carinhopor perto.",
+          "dir": "dark-on-light",
+          "worst": 7.12,
+          "mean": 8.68
+        },
+        {
+          "t": "Conhecer nosso jeito ↓",
+          "dir": "own-fill",
+          "worst": 10.07,
+          "mean": 10.07
+        },
+        {
+          "t": "feito para a vida realde quem ama bicho",
+          "dir": "dark-on-light",
+          "worst": 8.48,
+          "mean": 9.5
+        }
+      ],
+      "cues": [
+        {
+          "t": "petshop de bairro · guarapari, es",
+          "o": 1
+        },
+        {
+          "t": "Mais carinhopor perto.",
+          "o": 1
+        },
+        {
+          "t": "Cuidado leve, rotina feliz e aquele tipo de at",
+          "o": 0.83
+        },
+        {
+          "t": "Conhecer nosso jeito ↓",
+          "o": 1
+        },
+        {
+          "t": "feito para a vida realde quem ama bicho",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        0
+      ],
+      "wipes": [
+        "none"
+      ],
+      "act": "pin",
+      "stages": [
+        0,
+        1961,
+        5928
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(245,239,229)"
+    },
+    {
+      "i": 4,
+      "y": 532,
+      "pct": 8,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "petshop de bairro · guarapari, es",
+          "dir": "dark-on-light",
+          "worst": 9.12,
+          "mean": 9.69
+        },
+        {
+          "t": "Mais carinhopor perto.",
+          "dir": "dark-on-light",
+          "worst": 7.12,
+          "mean": 8.68
+        },
+        {
+          "t": "Conhecer nosso jeito ↓",
+          "dir": "own-fill",
+          "worst": 10.07,
+          "mean": 10.07
+        }
+      ],
+      "cues": [
+        {
+          "t": "petshop de bairro · guarapari, es",
+          "o": 1
+        },
+        {
+          "t": "Mais carinhopor perto.",
+          "o": 1
+        },
+        {
+          "t": "Conhecer nosso jeito ↓",
+          "o": 1
+        },
+        {
+          "t": "feito para a vida realde quem ama bicho",
+          "o": 0.18
+        }
+      ],
+      "clips": [],
+      "rails": [
+        0
+      ],
+      "wipes": [
+        "circle(0% at 50% 50%)"
+      ],
+      "act": "pin",
+      "stages": [
+        0,
+        1831,
+        5798
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(245,239,229)"
+    },
+    {
+      "i": 5,
+      "y": 662,
+      "pct": 10,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "petshop de bairro · guarapari, es",
+          "dir": "dark-on-light",
+          "worst": 9.12,
+          "mean": 9.69
+        },
+        {
+          "t": "Mais carinhopor perto.",
+          "dir": "dark-on-light",
+          "worst": 7.12,
+          "mean": 8.68
+        },
+        {
+          "t": "Conhecer nosso jeito ↓",
+          "dir": "own-fill",
+          "worst": 10.07,
+          "mean": 10.07
+        }
+      ],
+      "cues": [
+        {
+          "t": "petshop de bairro · guarapari, es",
+          "o": 1
+        },
+        {
+          "t": "Mais carinhopor perto.",
+          "o": 1
+        },
+        {
+          "t": "Conhecer nosso jeito ↓",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        0
+      ],
+      "wipes": [
+        "circle(0% at 50% 50%)"
+      ],
+      "act": "pin",
+      "stages": [
+        0,
+        1701,
+        5668
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(245,239,229)"
+    },
+    {
+      "i": 6,
+      "y": 709,
+      "pct": 11,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "petshop de bairro · guarapari, es",
+          "dir": "dark-on-light",
+          "worst": 9.06,
+          "mean": 9.7
+        },
+        {
+          "t": "Mais carinhopor perto.",
+          "dir": "dark-on-light",
+          "worst": 7.16,
+          "mean": 8.67
+        },
+        {
+          "t": "Conhecer nosso jeito ↓",
+          "dir": "own-fill",
+          "worst": 10.07,
+          "mean": 10.07
+        }
+      ],
+      "cues": [
+        {
+          "t": "petshop de bairro · guarapari, es",
+          "o": 1
+        },
+        {
+          "t": "Mais carinhopor perto.",
+          "o": 1
+        },
+        {
+          "t": "Conhecer nosso jeito ↓",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        0
+      ],
+      "wipes": [
+        "circle(0% at 50% 50%)"
+      ],
+      "act": "pin",
+      "stages": [
+        -34,
+        1654,
+        5621
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(245,239,229)"
+    },
+    {
+      "i": 7,
+      "y": 1033,
+      "pct": 16,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "Mais carinhopor perto.",
+          "dir": "dark-on-light",
+          "worst": 7.3,
+          "mean": 8.56
+        },
+        {
+          "t": "Conhecer nosso jeito ↓",
+          "dir": "own-fill",
+          "worst": 10.07,
+          "mean": 10.07
+        }
+      ],
+      "cues": [
+        {
+          "t": "Mais carinhopor perto.",
+          "o": 1
+        },
+        {
+          "t": "Conhecer nosso jeito ↓",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        0
+      ],
+      "wipes": [
+        "circle(3.01% at 50% 50%)"
+      ],
+      "act": "pin",
+      "stages": [
+        -358,
+        1330,
+        5297
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(237,229,215)"
+    },
+    {
+      "i": 8,
+      "y": 1357,
+      "pct": 20,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        0
+      ],
+      "wipes": [
+        "circle(45.33% at 50% 50%)"
+      ],
+      "act": "flow",
+      "stages": [
+        -682,
+        1006,
+        4973
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(233,223,207)"
+    },
+    {
+      "i": 9,
+      "y": 1681,
+      "pct": 25,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        0
+      ],
+      "wipes": [
+        "circle(77.98% at 50% 50%)"
+      ],
+      "act": "flow",
+      "stages": [
+        -1006,
+        682,
+        4649
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(233,223,207)"
+    },
+    {
+      "i": 10,
+      "y": 2005,
+      "pct": 30,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        0
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)"
+      ],
+      "act": "pan",
+      "stages": [
+        -1330,
+        358,
+        4325
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(233,223,207)"
+    },
+    {
+      "i": 11,
+      "y": 2329,
+      "pct": 35,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        0
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)"
+      ],
+      "act": "pan",
+      "stages": [
+        -1654,
+        34,
+        4001
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(233,223,207)"
+    },
+    {
+      "i": 12,
+      "y": 2408,
+      "pct": 36,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -19
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)"
+      ],
+      "act": "pan",
+      "stages": [
+        -1733,
+        0,
+        3922
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(231,221,206)"
+    },
+    {
+      "i": 13,
+      "y": 2837,
+      "pct": 43,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -206
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)"
+      ],
+      "act": "pan",
+      "stages": [
+        -2162,
+        0,
+        3493
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(94,118,115)"
+    },
+    {
+      "i": 14,
+      "y": 3267,
+      "pct": 49,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -393
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)"
+      ],
+      "act": "pan",
+      "stages": [
+        -2592,
+        0,
+        3063
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(21,63,67)"
+    },
+    {
+      "i": 15,
+      "y": 3696,
+      "pct": 56,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -580
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)"
+      ],
+      "act": "pan",
+      "stages": [
+        -3021,
+        0,
+        2634
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(21,63,67)"
+    },
+    {
+      "i": 16,
+      "y": 4126,
+      "pct": 62,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -767
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)"
+      ],
+      "act": "pan",
+      "stages": [
+        -3451,
+        0,
+        2204
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(21,63,67)"
+    },
+    {
+      "i": 17,
+      "y": 4555,
+      "pct": 69,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -954
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)"
+      ],
+      "act": "pan",
+      "stages": [
+        -3880,
+        0,
+        1775
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(21,63,67)"
+    },
+    {
+      "i": 18,
+      "y": 4634,
+      "pct": 70,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -973
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)"
+      ],
+      "act": "pan",
+      "stages": [
+        -3959,
+        -34,
+        1696
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(23,65,68)"
+    },
+    {
+      "i": 19,
+      "y": 4967,
+      "pct": 75,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -973
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)"
+      ],
+      "act": "pan",
+      "stages": [
+        -4292,
+        -367,
+        1363
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(167,174,165)"
+    },
+    {
+      "i": 20,
+      "y": 5299,
+      "pct": 80,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -973
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)"
+      ],
+      "act": "flow",
+      "stages": [
+        -4624,
+        -699,
+        1031
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(243,232,216)"
+    },
+    {
+      "i": 21,
+      "y": 5631,
+      "pct": 85,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -973
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)"
+      ],
+      "act": "flow",
+      "stages": [
+        -4956,
+        -1031,
+        699
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(243,232,216)"
+    },
+    {
+      "i": 22,
+      "y": 5963,
+      "pct": 90,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -973
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)"
+      ],
+      "act": "pin",
+      "stages": [
+        -5288,
+        -1363,
+        367
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(243,232,216)"
+    },
+    {
+      "i": 23,
+      "y": 6295,
+      "pct": 95,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -973
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)"
+      ],
+      "act": "pin",
+      "stages": [
+        -5620,
+        -1695,
+        35
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(243,232,216)"
+    },
+    {
+      "i": 24,
+      "y": 6336,
+      "pct": 96,
+      "settled": true,
+      "contrast": [],
+      "cues": [],
+      "clips": [],
+      "rails": [
+        -973
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)"
+      ],
+      "act": "pin",
+      "stages": [
+        -5661,
+        -1736,
+        0
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(243,232,215)"
+    },
+    {
+      "i": 25,
+      "y": 6393,
+      "pct": 96,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "vem tomar um café com a gente",
+          "dir": "dark-on-light",
+          "worst": 7.27,
+          "mean": 7.27
+        },
+        {
+          "t": "Seu pet vai sabero caminho de volta.",
+          "dir": "dark-on-light",
+          "worst": 7.27,
+          "mean": 7.27
+        }
+      ],
+      "cues": [
+        {
+          "t": "vem tomar um café com a gente",
+          "o": 0.94
+        },
+        {
+          "t": "Seu pet vai sabero caminho de volta.",
+          "o": 1
+        },
+        {
+          "t": "Rua do Sol, 118 · Praia do MorroGuarapari · Es",
+          "o": 0.02
+        }
+      ],
+      "clips": [],
+      "rails": [
+        -973
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)"
+      ],
+      "act": "pin",
+      "stages": [
+        -5718,
+        -1793,
+        0
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(245,210,142)"
+    },
+    {
+      "i": 26,
+      "y": 6449,
+      "pct": 97,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "vem tomar um café com a gente",
+          "dir": "dark-on-light",
+          "worst": 7.27,
+          "mean": 7.27
+        },
+        {
+          "t": "Seu pet vai sabero caminho de volta.",
+          "dir": "dark-on-light",
+          "worst": 7.27,
+          "mean": 7.27
+        },
+        {
+          "t": "Rua do Sol, 118 · Praia do MorroGuarapar",
+          "dir": "dark-on-light",
+          "worst": 7.27,
+          "mean": 7.27
+        },
+        {
+          "t": "Chamar no WhatsApp ↗",
+          "dir": "own-fill",
+          "worst": 7.29,
+          "mean": 7.29
+        }
+      ],
+      "cues": [
+        {
+          "t": "vem tomar um café com a gente",
+          "o": 1
+        },
+        {
+          "t": "Seu pet vai sabero caminho de volta.",
+          "o": 1
+        },
+        {
+          "t": "Rua do Sol, 118 · Praia do MorroGuarapari · Es",
+          "o": 1
+        },
+        {
+          "t": "Chamar no WhatsApp ↗",
+          "o": 0.94
+        },
+        {
+          "t": "✦vocêchegou",
+          "o": 0.44
+        }
+      ],
+      "clips": [],
+      "rails": [
+        -973
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)"
+      ],
+      "act": "pin",
+      "stages": [
+        -5774,
+        -1849,
+        0
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(246,199,104)"
+    },
+    {
+      "i": 27,
+      "y": 6506,
+      "pct": 98,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "vem tomar um café com a gente",
+          "dir": "dark-on-light",
+          "worst": 7.27,
+          "mean": 7.27
+        },
+        {
+          "t": "Seu pet vai sabero caminho de volta.",
+          "dir": "dark-on-light",
+          "worst": 7.27,
+          "mean": 7.27
+        },
+        {
+          "t": "Chamar no WhatsApp ↗",
+          "dir": "own-fill",
+          "worst": 7.29,
+          "mean": 7.29
+        },
+        {
+          "t": "✦vocêchegou",
+          "dir": "dark-on-light",
+          "worst": 7.27,
+          "mean": 7.27
+        }
+      ],
+      "cues": [
+        {
+          "t": "vem tomar um café com a gente",
+          "o": 1
+        },
+        {
+          "t": "Seu pet vai sabero caminho de volta.",
+          "o": 1
+        },
+        {
+          "t": "Rua do Sol, 118 · Praia do MorroGuarapari · Es",
+          "o": 0.78
+        },
+        {
+          "t": "Chamar no WhatsApp ↗",
+          "o": 1
+        },
+        {
+          "t": "✦vocêchegou",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        -973
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)"
+      ],
+      "act": "pin",
+      "stages": [
+        -5831,
+        -1906,
+        0
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(246,199,104)"
+    },
+    {
+      "i": 28,
+      "y": 6562,
+      "pct": 99,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "vem tomar um café com a gente",
+          "dir": "dark-on-light",
+          "worst": 7.27,
+          "mean": 7.27
+        },
+        {
+          "t": "Seu pet vai sabero caminho de volta.",
+          "dir": "dark-on-light",
+          "worst": 7.27,
+          "mean": 7.27
+        },
+        {
+          "t": "Chamar no WhatsApp ↗",
+          "dir": "own-fill",
+          "worst": 7.29,
+          "mean": 7.29
+        },
+        {
+          "t": "✦vocêchegou",
+          "dir": "dark-on-light",
+          "worst": 7.27,
+          "mean": 7.27
+        }
+      ],
+      "cues": [
+        {
+          "t": "vem tomar um café com a gente",
+          "o": 1
+        },
+        {
+          "t": "Seu pet vai sabero caminho de volta.",
+          "o": 1
+        },
+        {
+          "t": "Chamar no WhatsApp ↗",
+          "o": 1
+        },
+        {
+          "t": "✦vocêchegou",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        -973
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)"
+      ],
+      "act": "pin",
+      "stages": [
+        -5887,
+        -1962,
+        0
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(246,199,104)"
+    },
+    {
+      "i": 29,
+      "y": 6619,
+      "pct": 100,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "vem tomar um café com a gente",
+          "dir": "dark-on-light",
+          "worst": 7.27,
+          "mean": 7.27
+        },
+        {
+          "t": "Seu pet vai sabero caminho de volta.",
+          "dir": "dark-on-light",
+          "worst": 7.27,
+          "mean": 7.27
+        },
+        {
+          "t": "Chamar no WhatsApp ↗",
+          "dir": "own-fill",
+          "worst": 7.29,
+          "mean": 7.29
+        },
+        {
+          "t": "✦vocêchegou",
+          "dir": "dark-on-light",
+          "worst": 7.27,
+          "mean": 7.27
+        }
+      ],
+      "cues": [
+        {
+          "t": "vem tomar um café com a gente",
+          "o": 1
+        },
+        {
+          "t": "Seu pet vai sabero caminho de volta.",
+          "o": 1
+        },
+        {
+          "t": "Chamar no WhatsApp ↗",
+          "o": 1
+        },
+        {
+          "t": "✦vocêchegou",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        -973
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)"
+      ],
+      "act": "pin",
+      "stages": [
+        -5944,
+        -2019,
+        0
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(246,199,104)"
+    },
+    {
+      "i": 30,
+      "y": 6625,
+      "pct": 100,
+      "settled": true,
+      "contrast": [
+        {
+          "t": "vem tomar um café com a gente",
+          "dir": "dark-on-light",
+          "worst": 7.27,
+          "mean": 7.27
+        },
+        {
+          "t": "Seu pet vai sabero caminho de volta.",
+          "dir": "dark-on-light",
+          "worst": 7.27,
+          "mean": 7.27
+        },
+        {
+          "t": "Chamar no WhatsApp ↗",
+          "dir": "own-fill",
+          "worst": 7.29,
+          "mean": 7.29
+        },
+        {
+          "t": "✦vocêchegou",
+          "dir": "dark-on-light",
+          "worst": 7.27,
+          "mean": 7.27
+        }
+      ],
+      "cues": [
+        {
+          "t": "vem tomar um café com a gente",
+          "o": 1
+        },
+        {
+          "t": "Seu pet vai sabero caminho de volta.",
+          "o": 1
+        },
+        {
+          "t": "Chamar no WhatsApp ↗",
+          "o": 1
+        },
+        {
+          "t": "✦vocêchegou",
+          "o": 1
+        }
+      ],
+      "clips": [],
+      "rails": [
+        -973
+      ],
+      "wipes": [
+        "circle(78% at 50% 50%)"
+      ],
+      "act": "pin",
+      "stages": [
+        -5950,
+        -2025,
+        0
+      ],
+      "segs": [],
+      "custom": [],
+      "customHold": false,
+      "seg": null,
+      "segp": null,
+      "bg": "rgb(246,199,104)"
+    }
+  ],
+  "consoleErrors": [],
+  "failed": []
+}
