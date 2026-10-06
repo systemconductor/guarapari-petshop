@@ -19,4 +19,4 @@ Then open the printed local URL.
 
 ## Notes
 
-The brand, address, WhatsApp number, and copy are placeholders for template testing. Replace them before production use. The page uses four ScrollCraft device families: pinned scenes, flow reveals, horizontal service rail, and magnetic CTAs.
+The address, WhatsApp number, and copy are placeholders for template testing. Replace them before production use. The page uses four ScrollCraft device families: pinned scenes, flow reveals, horizontal service rail, and magnetic CTAs. The reference photography is sourced from Unsplash and should be replaced or credited appropriately for production.
