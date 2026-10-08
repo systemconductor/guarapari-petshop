@@ -28,11 +28,9 @@ changes only grammar and world will fail it.
 
 | Build | Grammar | Nav treatment | Hero device | Act-sequence shape | Close pattern | Signature move | World | Port |
 |---|---|---|---|---|---|---|---|---|
-| guarapari-petshop | custom local-service flow | fixed blend-mode bar + WhatsApp CTA | photographic pinned hero | pin → pan → flow → flow → pin, 5 sections | orange pinned contact stage | orbit mark + magnetic WhatsApp CTA | photographic pet-care scenes | 4500 |
-| lawstatu-trust | reference-faithful legal service landing page | centered navigation + coral consultation CTA | Lady Justice cutout over cream/indigo split | hero → stats → journey → practice tabs → proof → cases → team → consultation | coral consultation section with contact form | practice-area tabs update the selected image and consultation context | LawStatu cream, indigo, coral | 4511 |
 
-The second build clears the gate against the first on all six dimensions.
-
+*(empty: your first build has nothing to clear, so build whatever the interview
+points at. From the second onwards, this table is the constraint.)*
 
 ---
 
@@ -43,7 +41,7 @@ reusing: a grammar, a nav treatment, a close pattern, a signature move, an
 act-count-and-length band. The shared columns are what the next build inherits
 as a constraint, so writing them down is the whole point.
 
-Taken: dark fixed-bar local-service structure from `guarapari-petshop`; chaptered editorial structure, folio navigation, and colophon close from `lawstatu-trust`.
+Nothing is taken yet.
 
 ---
 
